@@ -11,7 +11,10 @@
             "responsive": false,
 			"legend": {
 				"position": "left",
-				"align": "center"
+				"align": "center",
+				"labels": {
+					"fontFamily": "Helvetica"
+				}
 			}
         }
     },

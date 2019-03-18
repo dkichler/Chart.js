@@ -2,7 +2,7 @@
     "config": {
         "type": "doughnut",
         "data": {
-            "labels": ["0"],
+            "labels": [""],
             "datasets": [{
                 "data": [10]
             }]
